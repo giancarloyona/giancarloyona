@@ -39,5 +39,5 @@ I am interested in opportunities involving:
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/giancarloyona/)
+- [LinkedIn](https://www.linkedin.com/in/giancarloyona/)
 - [E-mail](mailto:angelis.giancarlo@gmail.com)
