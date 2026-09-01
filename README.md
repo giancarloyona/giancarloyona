@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Giancarlo Angelis
 
-<!--
-**giancarloyona/giancarloyona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Data Scientist focused on Machine Learning, NLP, Generative AI, and Cloud-based data solutions.
 
-Here are some ideas to get you started:
+I work on building data products and machine learning systems that transform complex datasets into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of expertise
+
+- Machine Learning and statistical modeling
+- Natural Language Processing
+- Generative AI and LLM applications
+- Text classification, clustering, embeddings, and semantic search
+- Data pipelines and large-scale data processing
+- Python, SQL, Pandas, NumPy, and Scikit-learn
+- Cloud-based machine learning and data platforms
+- Model evaluation, experimentation, and deployment
+
+## Featured projects
+
+### Macro Equity Pipeline
+
+A Python-based data pipeline for collecting, processing, and analyzing macroeconomic and financial data.
+
+**Key technologies:** Python, data engineering, APIs, data processing, analytics
+
+[View the repository](https://github.com/giancarloyona/trading-bot)
+
+## Professional focus
+
+I am interested in opportunities involving:
+
+- Data Science
+- Machine Learning
+- NLP and Text Analytics
+- Conversational Analytics
+- Generative AI and LLM applications
+- Production ML systems
+- Scalable data and analytics platforms
+
+## Contact
+
+- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/giancarloyona/)
+- [E-mail](mailto:angelis.giancarlo@gmail.com)
