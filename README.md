@@ -9,7 +9,6 @@ I work on building data products and machine learning systems that transform com
 - Machine Learning and statistical modeling
 - Natural Language Processing
 - Generative AI and LLM applications
-- Text classification, clustering, embeddings, and semantic search
 - Data pipelines and large-scale data processing
 - Python, SQL, Pandas, NumPy, and Scikit-learn
 - Cloud-based machine learning and data platforms
@@ -32,7 +31,6 @@ I am interested in opportunities involving:
 - Data Science
 - Machine Learning
 - NLP and Text Analytics
-- Conversational Analytics
 - Generative AI and LLM applications
 - Production ML systems
 - Scalable data and analytics platforms
