@@ -22,7 +22,7 @@ A Python-based data pipeline for collecting, processing, and analyzing macroecon
 
 **Key technologies:** Python, data engineering, APIs, data processing, analytics
 
-[View the repository]([https://github.com/giancarloyona/trading-bot](https://github.com/giancarloyona/macro-equity-pipeline))
+[View the repository]([https://github.com/giancarloyona/macro-equity-pipeline])
 
 ## Professional focus
 
